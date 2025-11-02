@@ -19,3 +19,11 @@ __bold__
 
 1. elem1
 2. elem2
+
+## Tables
+
+## Pictures
+
+## Urls (ex. YouTube URL)
+
+## Git commands GitHub
