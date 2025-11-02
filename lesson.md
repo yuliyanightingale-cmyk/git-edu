@@ -11,3 +11,11 @@ git status
 *cours*
 
 __bold__
+
+## Lists
+
+* elem1
+- elem2
+
+1. elem1
+2. elem2
