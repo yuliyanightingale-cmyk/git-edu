@@ -10,4 +10,4 @@ git status
 
 *cours*
 
-**bold**
+__bold__
