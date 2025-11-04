@@ -33,7 +33,8 @@ __bold__
     Here I will work with tables
     Any text but about tables.
 ## Pictures
-
+    Here I will work with pictures
+    
 ## Urls (ex. YouTube URL)
 
 ## Git commands GitHub
